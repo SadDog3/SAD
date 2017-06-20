@@ -11,7 +11,7 @@ using MySql.Data.MySqlClient;
 
 namespace WindowsFormsApplication1
 {
-    
+    //hello
     public partial class Home : Form
     {
         private Color use;
